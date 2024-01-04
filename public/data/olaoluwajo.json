@@ -1,0 +1,13 @@
+{
+    "name": "Olaoluwajo",
+    "location": "Lagos Nigeria",
+    "bio": "I'm a self-taught frontend developer with a passion for creating robust and innovative web applications.",
+    "avatar": "https://github.com/olaoluwajo.png",
+    "portfolio": "https://github.com/olaoluwajo",
+    "skills": ["HTML", "CSS", "JavaScript", "ReactJS"],
+    "social": {
+      "GitHub": "https://github.com/olaoluwajo",
+      "Twitter": "https://twitter.com/@olaoluwa1_1",
+      "LinkedIn": "https://www.linkedin.com/in/olaoluwa1_1"
+    }
+  }
